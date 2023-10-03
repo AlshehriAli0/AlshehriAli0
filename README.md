@@ -2,7 +2,7 @@
 - Full time Computer science student 💻, Interested in Full Stack Development⚡️
 - currently learning Nextjs ⭐️
 
-# Skills, Tools And Technologys
+# Skills, tools and technologys
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,codepen,django,express,git,github,js,jquery,mongodb,mysql,nextjs,nodejs,postman,py,react,bootstrap,tailwind&perline=5)](https://github.com/AlshehriAli0)
 
 # Find me at

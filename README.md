@@ -1,5 +1,5 @@
 # About me
-![](https://komarev.com/ghpvc/?username=AlshehriAli0&style=flat-square)
+![](https://komarev.com/ghpvc/?username=AlshehriAli0&style=flat)
 - Full time Computer science student 💻, Interested in Full Stack Development⚡️
 - currently learning Nextjs ⭐️
 

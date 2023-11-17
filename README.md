@@ -4,7 +4,7 @@
 - currently learning Nextjs ⭐️
 
 # Skills, tools and technologys
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,codepen,django,express,git,github,js,jquery,mongodb,mysql,nextjs,nodejs,postman,py,react,bootstrap,tailwind&perline=5)](https://github.com/AlshehriAli0)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,codepen,express,git,github,js,jquery,mongodb,mysql,nextjs,nodejs,postman,py,react,bootstrap,postgres,python,tailwind&perline=5)](https://github.com/AlshehriAli0)
 
 # Find me at
 [![Contact](https://skillicons.dev/icons?i=twitter)](https://x.com/alshehriali0?s=21&t=1Q0F7XipnzTp3MPkW2x8UA)

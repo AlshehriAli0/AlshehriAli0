@@ -1,7 +1,7 @@
 # About me
 ![](https://komarev.com/ghpvc/?username=AlshehriAli0&style=flat)
-- Full time Computer science student 💻, Interested in Full Stack Development⚡️
-- currently learning Nextjs ⭐️
+- Full time Computer science student 💻, Interested in Full Stack && Back End Development⚡️
+
 
 # Skills, tools and technologys
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,codepen,express,git,github,js,jquery,mongodb,mysql,nextjs,nodejs,postman,py,react,bootstrap,postgres,python,tailwind&perline=7)](https://github.com/AlshehriAli0)

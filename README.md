@@ -12,4 +12,4 @@
 [![Contact](https://skillicons.dev/icons?i=codepen)](https://codepen.io/AlshehriAli0)
 
 # Activity 
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlshehriAli0)](https://github.com/AlshehriAli0/github-readme-stats)
+[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlshehriAli0&theme=transparent)](https://github.com/AlshehriAli0/github-readme-stats)

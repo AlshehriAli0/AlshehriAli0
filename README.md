@@ -1,6 +1,6 @@
 # About Me
 ![](https://komarev.com/ghpvc/?username=AlshehriAli0&style=flat)
-- Full time Computer Science student 💻, Interested in Full Stack && Back End Development⚡️
+- Full time Computer Science student 💻, Interested in Full Stack && Back End Software Development⚡️
 
 
 # Tools, Frameworks And Technologys

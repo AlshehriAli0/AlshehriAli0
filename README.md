@@ -9,7 +9,7 @@
 # Find Me At
 [![Contact](https://skillicons.dev/icons?i=twitter)](https://x.com/alshehriali0?s=21&t=1Q0F7XipnzTp3MPkW2x8UA)
 [![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ali-alshehri-340b26284)
-[![Contact](https://skillicons.dev/icons?i=codepen)](https://codepen.io/AlshehriAli0)
+[![Contact](https://skillicons.dev/icons?i=gmail)](https://codepen.io/AlshehriAli0)
 
 # Activity 
 [![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlshehriAli0&show_icons=true&theme=transparent)](https://github.com/AlshehriAli0/github-readme-stats)

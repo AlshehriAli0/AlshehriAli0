@@ -1,6 +1,7 @@
 # About Me
 ![](https://komarev.com/ghpvc/?username=AlshehriAli0&style=flat)
 - Full time Computer Science student 💻, Interested in Full Stack && Back End Software Development⚡️
+- Currently learning to work with Django
 
 
 # Tools, Frameworks And Technologys

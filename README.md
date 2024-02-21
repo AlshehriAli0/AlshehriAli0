@@ -1,6 +1,8 @@
 # About Me
+
 ![](https://komarev.com/ghpvc/?username=AlshehriAli0&style=flat)
-- Full time Computer Science student 💻, Interested in Full Stack && Back End Software Development⚡️
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+im+Ali+Alshehri;Full+time+Computer+Science+student+💻;Full+Stack+Developer;Back+End+Enthusiest)](https://git.io/typing-svg)
+- Interested in Ml & Data science⚡️
 - Currently learning to work with Django
 
 

@@ -1,6 +1,6 @@
 # About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+im+Ali+Alshehri;Full-Stack+Developer;Back-End+Enthusiest&size=36&center=true&duration=3000&pause=100)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+im+Ali+Alshehri;Full-Stack+Developer;Back-End+Enthusiest&size=36&center=true&duration=2500&pause=500)](https://git.io/typing-svg)
 - Full time Computer Science student 💻
 - Interested in Ml & Data science⚡️
 - Currently learning to work with Django

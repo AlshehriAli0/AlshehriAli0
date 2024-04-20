@@ -19,4 +19,4 @@
 [![Contact](https://skillicons.dev/icons?i=gmail)](mailto:ali0alshehri@outlook.com)
 
 # Activity 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlshehriAli0&theme=transparent&langs_count=10&hide=ejs,css,scss)](https://github.com/AlshehriAli0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlshehriAli0&theme=transparent&langs_count=10&hide=ejs,css,scss,html)](https://github.com/AlshehriAli0/github-readme-stats)

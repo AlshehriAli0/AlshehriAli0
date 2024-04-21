@@ -11,10 +11,9 @@
 
 
 # Tools, Frameworks And Technologys
-[![My Skills](https://skillicons.dev/icons?i=docker,html,css,cpp,bun,express,git,github,js,jquery,mongodb,mysql,flask,django,nodejs,postman,py,react,bootstrap,postgres,tailwind,heroku,ts,next&perline=5)](https://github.com/AlshehriAli0)
+[![My Skills](https://skillicons.dev/icons?i=docker,html,css,cpp,bun,express,git,github,js,jquery,bash,mongodb,mysql,fastapi,django,nodejs,postman,py,react,bootstrap,postgres,tailwind,heroku,ts,next&perline=5)](https://github.com/AlshehriAli0)
 
-# Find Me At
-[![Contact](https://skillicons.dev/icons?i=twitter)](https://x.com/alshehriali0?s=21&t=1Q0F7XipnzTp3MPkW2x8UA)
+# Contact Me At
 [![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ali-alshehri-340b26284)
 [![Contact](https://skillicons.dev/icons?i=gmail)](mailto:ali0alshehri@outlook.com)
 

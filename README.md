@@ -6,7 +6,7 @@
 # About Me
 - Full time **Computer Science** student 💻
 - Interested in **Ml & Data science** 🤖
-- Currently working with **TypeScript & Next.js** ➡️
+- Currently working with **TypeScript & Next.js** ➡️⚡️
 - Going into **App development** soon 🔜
 
 

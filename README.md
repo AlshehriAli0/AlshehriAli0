@@ -6,8 +6,8 @@
 # About Me
 - Full time Computer Science student 💻
 - Interested in Ml & Data science 🤖
-- Currently learning to work with Next.js ➡️
-- Going into System development soon 🔜
+- Currently with TypeScript & Next.js ➡️
+- Going into App development soon 🔜
 
 
 # Tools, Frameworks And Technologys

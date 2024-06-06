@@ -8,7 +8,7 @@
 - Interested in **Ml & Data Science** 🤖
 - Currently working with **TypeScript & Next.js** ➡️⚡️
 - Crafting **Neat Projects** 🛠️🔜
- 
+
 
 ## Tools, Frameworks And Technologys 🔧
 [![My Skills](https://skillicons.dev/icons?i=docker,html,css,cpp,bun,express,git,github,js,jquery,bash,mongodb,mysql,fastapi,django,nodejs,postman,py,react,bootstrap,postgres,tailwind,heroku,ts,next&perline=5)](https://github.com/AlshehriAli0)

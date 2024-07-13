@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Ali+Alshehri+👋;Full-Stack+Developer+🧑‍💻;Back-End+Enthusiest+⚡;Welcome+to+my+page!+🤝&size=36&duration=2200&pause=900&color=ffffff&font=roboto+mono+700)](https://git.io/typing-svg)
 
 
-<img src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=6c09b952n4gsu0l1yxs1m59qvpo7nb6lh6kuajw07r2a4057&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+<img src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=6c09b952n4gsu0l1yxs1m59qvpo7nb6lh6kuajw07r2a4057&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" lazy />
 
 ## About Me 🧑‍💻
 - Full time **Computer Science** student 💻

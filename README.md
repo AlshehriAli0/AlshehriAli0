@@ -7,7 +7,7 @@
 - Full time **Computer Science** student 💻
 - Interested in **Ml & Data Science** 🤖
 - Currently working with **TypeScript & Next.js** ➡️⚡️
-- Crafting **Neat Projects** 🛠️🔜
+- Crafting **Sophisticated Tech** 🛠️🔜
  
 
 ## Tools, Frameworks And Technologys 🔧

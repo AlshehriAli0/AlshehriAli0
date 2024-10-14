@@ -11,7 +11,7 @@
  
 
 ## Tools, Frameworks And Technologys 🔧
-[![My Skills](https://skillicons.dev/icons?i=docker,html,css,cpp,bun,express,git,github,js,jquery,bash,mongodb,mysql,fastapi,django,nodejs,postman,py,react,bootstrap,postgres,tailwind,heroku,ts,next&perline=5)](https://github.com/AlshehriAli0)
+[![My Skills](https://skillicons.dev/icons?i=docker,html,css,cpp,bun,express,git,github,js,jquery,bash,pnpm,mongodb,mysql,fastapi,django,nodejs,postman,py,prisma,react,bootstrap,postgres,supabase,tailwind,heroku,ts,next&perline=7)](https://github.com/AlshehriAli0)
 
 ## Activity 🥇
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlshehriAli0&show_icons=true&theme=transparent)

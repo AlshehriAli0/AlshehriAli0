@@ -1,7 +1,7 @@
 ## About Me
 - Full time **Computer Science** student 💻
 - Interested in **Ml & Data Science** 🤖
-- Currently working with **TypeScript & Next.js** ➡️⚡️
+- Currently working with **TypeScript & Vite** ➡️⚡️
 - Crafting **Sophisticated Tech** 🛠️🔜
  
 

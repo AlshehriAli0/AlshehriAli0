@@ -1,8 +1,7 @@
 ## About Me
 - Full time **AI** student 💻
 - Part time software engineer 👨‍💻
-- Interested in **Ml & Data Science** 🤖
-- Currently working with **TypeScript & Vite** ➡️⚡️
+- Currently working with **React Native** ➡️⚡️
 - Crafting **Sophisticated Tech** 🛠️🔜
  
 
